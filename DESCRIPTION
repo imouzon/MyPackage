@@ -1,0 +1,13 @@
+ Package: MyPackage 
+ Type: Package 
+ Version: 0.0 
+ Date: 2015-02-14 
+ Authors: Ian Mouzon <imouzon@iastate.edu> 
+ Maintainer: Ian Mouzon <imouzon@iastate.edu> 
+ Description:  
+ Depends: R (>= 2.14.1) 
+ Suggests:  
+ License: MIT 
+ URL: http://github.com/imouzon/MyPackage/ 
+ BugReports: http://github.com/imouzon/MyPackage/ 
+ VignetteBuilder: knitr 
